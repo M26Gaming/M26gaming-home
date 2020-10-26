@@ -39,3 +39,21 @@ body{
 	top: 0px;
 	left: 0px;
 }
+
+.sub {
+	font-size: 20px;
+	font-family: berlin sans fb;
+	color: white;
+	bottom: 0px;
+	position: fixed;
+	background-color: #9a0000;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	cursor: pointer;
+}
+
+.sub:hover {
+	background-color: white;
+	color: #9a0000;
+}
